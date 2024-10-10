@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/account/verify-email/page": "app/account/verify-email/page.js",
+  "/account/login/page": "app/account/login/page.js",
+  "/user/profile/page": "app/user/profile/page.js",
+  "/user/change-password/page": "app/user/change-password/page.js",
+  "/account/reset-password-link/page": "app/account/reset-password-link/page.js",
+  "/account/reset-password-confirm/[id]/[token]/page": "app/account/reset-password-confirm/[id]/[token]/page.js"
+}
